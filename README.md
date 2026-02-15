@@ -3,7 +3,7 @@
 
 ## System Overview
 
-The final platform streams live video, GPS coordinates, and orientation data to a web dashboard all running on a custom assembled drone.
+A series of projects ending with a custom assembled drone that streams live video, GPS coordinates, and orientation data to a web dashboard over wifi/bluetooth. This project uses real time OS kernel Raspberry Pi 4, Arduino Uno and Mini, Adafruit sensors, and other hardware components.
 
 **Key concepts:** C++, Python, RTOS task scheduling, I2C, SPI, UART, hardware interrupts, Bluetooth serial, video capture
 
